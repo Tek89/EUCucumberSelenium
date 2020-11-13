@@ -43,4 +43,5 @@ Feature: Contacts page
       | password  | UserUser123 |
       | firstname | Brenden     |
       | lastname  | Schneider   |
+    
     Then the user should be able to login

@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.vytrack.runners.CukesRunner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 41.517 s <<< FAILURE! - in com.vytrack.runners.CukesRunner
-Sales manager user(Account types)  Time elapsed: 7.894 s  <<< FAILURE!
-java.lang.AssertionError
-
-Verify Create Calender Event(Contacts page)  Time elapsed: 8.209 s  <<< FAILURE!
-java.lang.AssertionError
-
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.125 s - in com.vytrack.runners.CukesRunner
